@@ -1,0 +1,57 @@
+.Name {
+    display: flex;
+    justify-content: center;
+
+}
+
+.songs {
+    border: solid #613017 10px;
+    Background-color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 400px;
+    border: red dashed 7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.music-section {
+    border: #32a852;
+
+    Background-color: #1b702c;
+}
+
+.game-section {
+    border: orange;
+    padding: 30px;
+    color: #ff4000;
+    background-color: black;
+
+}
+
+.Minecraft {
+    border: dashed #ff7e21 7px;
+    padding: 10px;
+}
+
+.about-C418 {
+    border: #0080ff;
+    color: blue;
+    Background-color: #00aaff;
+
+
+}
+
+.border {
+    border: solid 7px;
+    padding: 30px;
+    margin: 20px;
+
+}
